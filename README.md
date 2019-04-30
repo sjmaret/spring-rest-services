@@ -1,7 +1,7 @@
 # JPA and Spring HATEOAS
 
 ```bash
-## Endpoints
+Endpoints
 
 localhost:8080/employees
 localhost:8080/employees/{id}
