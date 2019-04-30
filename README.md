@@ -1,4 +1,4 @@
-# spring-rest-services
+# JPA and Spring HATEOAS
 
 # Endpoints
 localhost:8080/employees
